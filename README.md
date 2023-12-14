@@ -122,9 +122,12 @@ else:
 
 ```
 ## Output
-![output](/output1.png)
-![output](/output2.png)
-![output](/output3.png)
+![output1](https://github.com/BHARATHNATRAJAN/Search-Algorithm/assets/147473529/126e95a3-f9d0-449a-9133-a83956e94af6)
+
+![output2](https://github.com/BHARATHNATRAJAN/Search-Algorithm/assets/147473529/f90ade31-5a99-4499-83c5-3620a959394c)
+
+![output3](https://github.com/BHARATHNATRAJAN/Search-Algorithm/assets/147473529/937edd9a-c6d4-45bc-9509-2edf3eb38ad5)
+
 
 
 
